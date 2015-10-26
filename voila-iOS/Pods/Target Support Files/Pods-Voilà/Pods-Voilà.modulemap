@@ -1,0 +1,6 @@
+framework module Pods_Voila_ {
+  umbrella header "Pods-Voilà-umbrella.h"
+
+  export *
+  module * { export * }
+}

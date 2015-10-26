@@ -1,0 +1,22 @@
+{
+  "name": "SwiftTweaks",
+  "version": "3.0",
+  "license": "MIT",
+  "summary": "Set of helper classes and functions for every Xcode project.",
+  "homepage": "https://github.com/VojtaStavik/iOS-SwiftTweaks",
+  "social_media_url": "http://twitter.com/VojtaStavik",
+  "authors": {
+    "Vojta Stavik": "stavik@outlook.com"
+  },
+  "source": {
+    "git": "https://github.com/VojtaStavik/iOS-SwiftTweaks",
+    "tag": "3.0",
+    "branch": "Swift2"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "*.swift",
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

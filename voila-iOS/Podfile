@@ -1,0 +1,19 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '6.0'
+
+use_frameworks! 
+target 'Voilà' do
+
+pod 'RSBarcodes_Swift', '~> 0.1.0'
+pod 'Toucan'
+pod 'SwiftyJSON'
+pod 'SVProgressHUD'
+pod 'Alamofire', '~> 3.0'
+pod 'SwiftTweaks', :git => 'https://github.com/VojtaStavik/iOS-SwiftTweaks'
+pod 'PVShow-Message', :git => 'https://github.com/Vaberer/PVShow-Message.git', :branch => 'swift2'
+
+
+
+
+end
+

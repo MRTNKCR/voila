@@ -1,0 +1,43 @@
+PODS:
+  - Alamofire (3.1.0)
+  - PVShow-Message (1.0.0)
+  - RSBarcodes_Swift (0.1.4)
+  - SVProgressHUD (1.1.3)
+  - SwiftTweaks (3.0)
+  - SwiftyJSON (2.3.1)
+  - Toucan (0.4.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0)
+  - PVShow-Message (from `https://github.com/Vaberer/PVShow-Message.git`, branch `swift2`)
+  - RSBarcodes_Swift (~> 0.1.0)
+  - SVProgressHUD
+  - SwiftTweaks (from `https://github.com/VojtaStavik/iOS-SwiftTweaks`)
+  - SwiftyJSON
+  - Toucan
+
+EXTERNAL SOURCES:
+  PVShow-Message:
+    :branch: swift2
+    :git: https://github.com/Vaberer/PVShow-Message.git
+  SwiftTweaks:
+    :git: https://github.com/VojtaStavik/iOS-SwiftTweaks
+
+CHECKOUT OPTIONS:
+  PVShow-Message:
+    :commit: 1ce6dbf1adaaaa4d354a875520e5c84bbcd5ddf9
+    :git: https://github.com/Vaberer/PVShow-Message.git
+  SwiftTweaks:
+    :commit: c919107217fad9e676b3527c1f5882e9995e515a
+    :git: https://github.com/VojtaStavik/iOS-SwiftTweaks
+
+SPEC CHECKSUMS:
+  Alamofire: 415bd7f56197722978759078486689f7ef913dce
+  PVShow-Message: 6efe50eea31020b118efccadc5caccaf5b68b932
+  RSBarcodes_Swift: be8bfa7d6eee82c12e94dc44a4be2c2178599202
+  SVProgressHUD: 748080e4f36e603f6c02aec292664239df5279c1
+  SwiftTweaks: 9bc485047ef5dbe1f1726e298dfe14153f561de1
+  SwiftyJSON: 592b53bee5ef3dd9b3bebc6b9cb7ee35426ae8c3
+  Toucan: 3e2319c8fb9c7a2fb9c30f6d4ecdc6b8a2f1c92b
+
+COCOAPODS: 0.39.0

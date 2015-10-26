@@ -1,0 +1,6 @@
+framework module PVShow_Message {
+  umbrella header "PVShow-Message-umbrella.h"
+
+  export *
+  module * { export * }
+}
