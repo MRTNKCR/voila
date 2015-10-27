@@ -1,0 +1,15 @@
+{
+  "name": "voila",
+  "version": "0.0.1",
+  "description": "Voila project",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.2.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
