@@ -1,0 +1,6 @@
+{
+    "require": {
+        "aws/aws-sdk-php": "^3.8",
+        "symfony/var-dumper": "^2.7"
+    }
+}
